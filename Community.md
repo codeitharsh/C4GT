@@ -893,6 +893,21 @@
 </table>
 <table>
   <tr>
+    <td>Name</td>
+    <td>Harsh</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/codeitharsh</td>
+  </tr>
+
+  <tr>
+    <td>College</td>
+    <td>JSS Maharaja Surajmal Institute</td>
+  </tr>
+</table>
+<table>
+  <tr>
       <td>Name</td>
       <td>Abhishek Yadav</td>
   </tr>
